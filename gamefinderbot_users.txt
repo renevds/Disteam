@@ -1,0 +1,236 @@
+[
+    {
+        "discordName": "unknown",
+        "py/object": "gamefinderbot_userclass.User",
+        "steamID": "76561198165051030",
+        "steamLevel": 7,
+        "steamName": "BWOAH",
+        "steamProfileLink": "https://steamcommunity.com/profiles/76561198165051030"
+    },
+    {
+        "discordName": "unknown",
+        "py/object": "gamefinderbot_userclass.User",
+        "steamID": "76561198115205016",
+        "steamLevel": 10,
+        "steamName": "Geurkaars01",
+        "steamProfileLink": "https://steamcommunity.com/profiles/76561198115205016"
+    },
+    {
+        "discordName": "unknown",
+        "py/object": "gamefinderbot_userclass.User",
+        "steamID": "76561198360061401",
+        "steamLevel": 2,
+        "steamName": "Niceguy8299",
+        "steamProfileLink": "https://steamcommunity.com/profiles/76561198360061401"
+    },
+    {
+        "discordName": "unknown",
+        "py/object": "gamefinderbot_userclass.User",
+        "steamID": "76561198319403012",
+        "steamLevel": 9,
+        "steamName": "SalisburyBavo",
+        "steamProfileLink": "https://steamcommunity.com/profiles/76561198319403012"
+    },
+    {
+        "discordName": "unknown",
+        "py/object": "gamefinderbot_userclass.User",
+        "steamID": "76561197997492381",
+        "steamLevel": 12,
+        "steamName": "\u2665\u2665\u2665\u2665 \"Not a crook\" Nixon",
+        "steamProfileLink": "https://steamcommunity.com/profiles/76561197997492381"
+    },
+    {
+        "discordName": "unknown",
+        "py/object": "gamefinderbot_userclass.User",
+        "steamID": "76561198237246062",
+        "steamLevel": 5,
+        "steamName": "King Filip",
+        "steamProfileLink": "https://steamcommunity.com/profiles/76561198237246062"
+    },
+    {
+        "discordName": "unknown",
+        "py/object": "gamefinderbot_userclass.User",
+        "steamID": "76561198058759279",
+        "steamLevel": 69,
+        "steamName": "BoomDoom",
+        "steamProfileLink": "https://steamcommunity.com/profiles/76561198058759279"
+    },
+    {
+        "discordName": "unknown",
+        "py/object": "gamefinderbot_userclass.User",
+        "steamID": "76561198303570679",
+        "steamLevel": 10,
+        "steamName": "zilian",
+        "steamProfileLink": "https://steamcommunity.com/profiles/76561198303570679"
+    },
+    {
+        "discordName": "unknown",
+        "py/object": "gamefinderbot_userclass.User",
+        "steamID": "76561198425691840",
+        "steamLevel": 53,
+        "steamName": "azerniiic",
+        "steamProfileLink": "https://steamcommunity.com/profiles/76561198425691840"
+    },
+    {
+        "discordID": 200721315471032322,
+        "discordId": 200721315471032322,
+        "discordName": "unknown",
+        "py/object": "gamefinderbot_userclass.User",
+        "steamID": "76561198125542646",
+        "steamLevel": 24,
+        "steamName": "Dildosaurus",
+        "steamProfileLink": "https://steamcommunity.com/profiles/76561198125542646"
+    },
+    {
+        "discordName": "unknown",
+        "py/object": "gamefinderbot_userclass.User",
+        "steamID": "76561198118863731",
+        "steamLevel": 23,
+        "steamName": "Hackerman",
+        "steamProfileLink": "https://steamcommunity.com/profiles/76561198118863731"
+    },
+    {
+        "discordName": "unknown",
+        "py/object": "gamefinderbot_userclass.User",
+        "steamID": "76561198192929858",
+        "steamLevel": 4,
+        "steamName": "Mister T",
+        "steamProfileLink": "https://steamcommunity.com/profiles/76561198192929858"
+    },
+    {
+        "discordName": "unknown",
+        "py/object": "gamefinderbot_userclass.User",
+        "steamID": "76561198053108848",
+        "steamLevel": 11,
+        "steamName": "Vucis",
+        "steamProfileLink": "https://steamcommunity.com/profiles/76561198053108848"
+    },
+    {
+        "discordName": "unknown",
+        "py/object": "gamefinderbot_userclass.User",
+        "steamID": "76561198216707456",
+        "steamLevel": 11,
+        "steamName": "P3rtang",
+        "steamProfileLink": "https://steamcommunity.com/profiles/76561198216707456"
+    },
+    {
+        "discordName": "unknown",
+        "py/object": "gamefinderbot_userclass.User",
+        "steamID": "76561198273354964",
+        "steamLevel": 76,
+        "steamName": "EricHesper",
+        "steamProfileLink": "https://steamcommunity.com/profiles/76561198273354964"
+    },
+    {
+        "discordName": "unknown",
+        "py/object": "gamefinderbot_userclass.User",
+        "steamID": "76561198088375404",
+        "steamLevel": 31,
+        "steamName": "Delirium",
+        "steamProfileLink": "https://steamcommunity.com/profiles/76561198088375404"
+    },
+    {
+        "discordID": "",
+        "py/object": "gamefinderbot_userclass.User",
+        "steamID": "76561198328124422",
+        "steamLevel": 48,
+        "steamName": "Mega",
+        "steamProfileLink": "https://steamcommunity.com/profiles/76561198328124422"
+    },
+    {
+        "discordID": "",
+        "py/object": "gamefinderbot_userclass.User",
+        "steamID": "76561198211090432",
+        "steamLevel": 4,
+        "steamName": "Gashin",
+        "steamProfileLink": "https://steamcommunity.com/profiles/76561198211090432"
+    },
+    {
+        "discordID": "",
+        "py/object": "gamefinderbot_userclass.User",
+        "steamID": "76561198049770261",
+        "steamLevel": 10,
+        "steamName": "Gekyume",
+        "steamProfileLink": "https://steamcommunity.com/profiles/76561198049770261"
+    },
+    {
+        "discordID": "",
+        "py/object": "gamefinderbot_userclass.User",
+        "steamID": "76561198144589320",
+        "steamLevel": 75,
+        "steamName": "tails1207",
+        "steamProfileLink": "https://steamcommunity.com/profiles/76561198144589320"
+    },
+    {
+        "discordID": "",
+        "py/object": "gamefinderbot_userclass.User",
+        "steamID": "76561198232078076",
+        "steamLevel": 13,
+        "steamName": "CraftyCrasher",
+        "steamProfileLink": "https://steamcommunity.com/profiles/76561198232078076"
+    },
+    {
+        "discordID": "",
+        "py/object": "gamefinderbot_userclass.User",
+        "steamID": "76561198163202962",
+        "steamLevel": 34,
+        "steamName": "The Big Davai",
+        "steamProfileLink": "https://steamcommunity.com/profiles/76561198163202962"
+    },
+    {
+        "discordID": "",
+        "py/object": "gamefinderbot_userclass.User",
+        "steamID": "76561198362862365",
+        "steamLevel": 15,
+        "steamName": "Zyrsonn",
+        "steamProfileLink": "https://steamcommunity.com/profiles/76561198362862365"
+    },
+    {
+        "discordID": "",
+        "py/object": "gamefinderbot_userclass.User",
+        "steamID": "76561198220152303",
+        "steamLevel": 9,
+        "steamName": "Tr1ver",
+        "steamProfileLink": "https://steamcommunity.com/profiles/76561198220152303"
+    },
+    {
+        "discordID": "",
+        "py/object": "gamefinderbot_userclass.User",
+        "steamID": "76561198277291451",
+        "steamLevel": 3,
+        "steamName": "anodt",
+        "steamProfileLink": "https://steamcommunity.com/profiles/76561198277291451"
+    },
+    {
+        "discordID": "",
+        "py/object": "gamefinderbot_userclass.User",
+        "steamID": "76561198196251537",
+        "steamLevel": 6,
+        "steamName": "Puer",
+        "steamProfileLink": "https://steamcommunity.com/profiles/76561198196251537"
+    },
+    {
+        "discordID": "",
+        "py/object": "gamefinderbot_userclass.User",
+        "steamID": "76561198216888376",
+        "steamLevel": 5,
+        "steamName": "Adidas",
+        "steamProfileLink": "https://steamcommunity.com/profiles/76561198216888376"
+    },
+    {
+        "discordID": "",
+        "py/object": "gamefinderbot_userclass.User",
+        "steamID": "76561198063703315",
+        "steamLevel": 36,
+        "steamName": "\u00dfelgianPhoenix",
+        "steamProfileLink": "https://steamcommunity.com/profiles/76561198063703315"
+    },
+    {
+        "discordID": "",
+        "py/object": "gamefinderbot_userclass.User",
+        "steamID": "76561197999425165",
+        "steamLevel": 7,
+        "steamName": "sevendaybinge",
+        "steamProfileLink": "https://steamcommunity.com/profiles/76561197999425165"
+    }
+]

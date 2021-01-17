@@ -1,0 +1,4693 @@
+[
+    {
+        "gameID": "72850",
+        "gameName": "The Elder Scrolls V: Skyrim",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 934,
+        "steamIDs": [
+            "76561198053108848",
+            "76561198118863731"
+        ]
+    },
+    {
+        "gameID": "230410",
+        "gameName": "Warframe",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 9120,
+        "steamIDs": [
+            "76561198053108848",
+            "76561198192929858",
+            "76561198118863731"
+        ]
+    },
+    {
+        "gameID": "211820",
+        "gameName": "Starbound",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 67953,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "49520",
+        "gameName": "Borderlands 2",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 152240,
+        "steamIDs": [
+            "76561198053108848",
+            "76561198118863731"
+        ]
+    },
+    {
+        "gameID": "4000",
+        "gameName": "Garry's Mod",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 506802,
+        "steamIDs": [
+            "76561198053108848",
+            "76561198125542646",
+            "76561198118863731",
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "377160",
+        "gameName": "Fallout 4",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 2146,
+        "steamIDs": [
+            "76561198053108848",
+            "76561198125542646",
+            "76561198118863731"
+        ]
+    },
+    {
+        "gameID": "413150",
+        "gameName": "Stardew Valley",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 5099,
+        "steamIDs": [
+            "76561198053108848",
+            "76561198192929858",
+            "76561198303570679",
+            "76561198118863731"
+        ]
+    },
+    {
+        "gameID": "394360",
+        "gameName": "Hearts of Iron IV",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 72599,
+        "steamIDs": [
+            "76561198053108848",
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "22380",
+        "gameName": "Fallout: New Vegas",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 80335,
+        "steamIDs": [
+            "76561198053108848",
+            "76561198118863731"
+        ]
+    },
+    {
+        "gameID": "582010",
+        "gameName": "Monster Hunter: World",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 3114,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "8930",
+        "gameName": "Sid Meier's Civilization V",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 809,
+        "steamIDs": [
+            "76561198053108848",
+            "76561198192929858",
+            "76561198303570679"
+        ]
+    },
+    {
+        "gameID": "55230",
+        "gameName": "Saints Row: The Third",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 37867,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "364360",
+        "gameName": "Total War: WARHAMMER",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 27084,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "359550",
+        "gameName": "Tom Clancy's Rainbow Six Siege",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 631261,
+        "steamIDs": [
+            "76561198053108848",
+            "76561198118863731"
+        ]
+    },
+    {
+        "gameID": "261640",
+        "gameName": "Borderlands: The Pre-Sequel",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 22140,
+        "steamIDs": [
+            "76561198053108848",
+            "76561198118863731"
+        ]
+    },
+    {
+        "gameID": "105600",
+        "gameName": "Terraria",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 462176,
+        "steamIDs": [
+            "76561198053108848",
+            "76561198118863731",
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "268500",
+        "gameName": "XCOM 2",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 702,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "250900",
+        "gameName": "The Binding of Isaac: Rebirth",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 97927,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "236110",
+        "gameName": "Dungeon Defenders II",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 17407,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "289070",
+        "gameName": "Sid Meier's Civilization VI",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 87191,
+        "steamIDs": [
+            "76561198053108848",
+            "76561198192929858",
+            "76561198118863731"
+        ]
+    },
+    {
+        "gameID": "244850",
+        "gameName": "Space Engineers",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 743,
+        "steamIDs": [
+            "76561198053108848",
+            "76561198125542646",
+            "76561198118863731"
+        ]
+    },
+    {
+        "gameID": "48700",
+        "gameName": "Mount & Blade: Warband",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 924,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "435150",
+        "gameName": "Divinity: Original Sin 2",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 87258,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "252950",
+        "gameName": "Rocket League",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 334506,
+        "steamIDs": [
+            "76561198053108848",
+            "76561198125542646",
+            "76561198303570679",
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "227300",
+        "gameName": "Euro Truck Simulator 2",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 6562,
+        "steamIDs": [
+            "76561198053108848",
+            "76561198125542646",
+            "76561198118863731",
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "255710",
+        "gameName": "Cities: Skylines",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 98690,
+        "steamIDs": [
+            "76561198053108848",
+            "76561198118863731",
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "356190",
+        "gameName": "Middle-earth\u2122: Shadow of War\u2122",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 845,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "638970",
+        "gameName": "Yakuza 0",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 829,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "291550",
+        "gameName": "Brawlhalla",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 6334,
+        "steamIDs": [
+            "76561198053108848",
+            "76561198118863731",
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "236390",
+        "gameName": "War Thunder",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 4547,
+        "steamIDs": [
+            "76561198053108848",
+            "76561198192929858",
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "209000",
+        "gameName": "Batman\u2122: Arkham Origins",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 530,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "440",
+        "gameName": "Team Fortress 2",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 705196,
+        "steamIDs": [
+            "76561198053108848",
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "745920",
+        "gameName": "Temtem",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 454,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "287700",
+        "gameName": "METAL GEAR SOLID V: THE PHANTOM PAIN",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 614,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "233860",
+        "gameName": "Kenshi",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 696,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "261550",
+        "gameName": "Mount & Blade II: Bannerlord",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 2870,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "281990",
+        "gameName": "Stellaris",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 62049,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "241930",
+        "gameName": "Middle-earth\u2122: Shadow of Mordor\u2122",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 39333,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "242760",
+        "gameName": "The Forest",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 3699,
+        "steamIDs": [
+            "76561198053108848",
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "730",
+        "gameName": "Counter-Strike: Global Offensive",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 4772768,
+        "steamIDs": [
+            "76561198053108848",
+            "76561198125542646",
+            "76561198303570679",
+            "76561198118863731",
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "32800",
+        "gameName": "The Lord of the Rings: War in the North",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 3106,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "234140",
+        "gameName": "Mad Max",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 432,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "200510",
+        "gameName": "XCOM: Enemy Unknown",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 29672,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "252490",
+        "gameName": "Rust",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 7578,
+        "steamIDs": [
+            "76561198053108848",
+            "76561198303570679",
+            "76561198118863731",
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "109600",
+        "gameName": "Neverwinter",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 345,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "50300",
+        "gameName": "Spec Ops: The Line",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 99,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "206420",
+        "gameName": "Saints Row IV",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 47837,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "285900",
+        "gameName": "Gang Beasts",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 328,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "620",
+        "gameName": "Portal 2",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 3341,
+        "steamIDs": [
+            "76561198053108848",
+            "76561198118863731",
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "294100",
+        "gameName": "RimWorld",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 69055,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "227940",
+        "gameName": "Heroes & Generals",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 1352,
+        "steamIDs": [
+            "76561198053108848",
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "91310",
+        "gameName": "Dead Island",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 0,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "632360",
+        "gameName": "Risk of Rain 2",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 75188,
+        "steamIDs": [
+            "76561198053108848",
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "1113000",
+        "gameName": "Persona 4 Golden",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 25391,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "238090",
+        "gameName": "Sniper Elite 3",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 13904,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "518790",
+        "gameName": "theHunter: Call of the Wild\u2122",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 44177,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "637650",
+        "gameName": "FINAL FANTASY XV WINDOWS EDITION",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 352,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "427520",
+        "gameName": "Factorio",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 71766,
+        "steamIDs": [
+            "76561198053108848",
+            "76561198303570679",
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "273350",
+        "gameName": "Evolve Stage 2",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 9176,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "304930",
+        "gameName": "Unturned",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 4769,
+        "steamIDs": [
+            "76561198053108848",
+            "76561198125542646",
+            "76561198118863731"
+        ]
+    },
+    {
+        "gameID": "239160",
+        "gameName": "Thief",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 133,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "226320",
+        "gameName": "Marvel Heroes Omega",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 0,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "203770",
+        "gameName": "Crusader Kings II",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 58658,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "238960",
+        "gameName": "Path of Exile",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 2124,
+        "steamIDs": [
+            "76561198053108848",
+            "76561198192929858"
+        ]
+    },
+    {
+        "gameID": "420290",
+        "gameName": "Blackwake",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 320,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "322330",
+        "gameName": "Don't Starve Together",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 3045,
+        "steamIDs": [
+            "76561198053108848",
+            "76561198192929858",
+            "76561198303570679"
+        ]
+    },
+    {
+        "gameID": "286160",
+        "gameName": "Tabletop Simulator",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 764,
+        "steamIDs": [
+            "76561198053108848",
+            "76561198118863731"
+        ]
+    },
+    {
+        "gameID": "627270",
+        "gameName": "Injustice\u2122 2",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 5432,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "208090",
+        "gameName": "Loadout",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 40609,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "550",
+        "gameName": "Left 4 Dead 2",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 6476,
+        "steamIDs": [
+            "76561198053108848",
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "367540",
+        "gameName": "Starbound - Unstable",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 0,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "779340",
+        "gameName": "Total War: THREE KINGDOMS",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 40393,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "17410",
+        "gameName": "Mirror's Edge",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 392,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "630",
+        "gameName": "Alien Swarm",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 58,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "1062160",
+        "gameName": "Poly Bridge 2",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 202,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "246900",
+        "gameName": "Viscera Cleanup Detail",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 7928,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "506540",
+        "gameName": "Last Man Standing",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 64,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "301520",
+        "gameName": "Robocraft",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 528,
+        "steamIDs": [
+            "76561198053108848",
+            "76561198125542646",
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "431240",
+        "gameName": "Golf With Your Friends",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 463,
+        "steamIDs": [
+            "76561198053108848",
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "367520",
+        "gameName": "Hollow Knight",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 97436,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "387290",
+        "gameName": "Ori and the Blind Forest: Definitive Edition",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 694,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "755790",
+        "gameName": "Ring of Elysium",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 964,
+        "steamIDs": [
+            "76561198053108848",
+            "76561198303570679"
+        ]
+    },
+    {
+        "gameID": "102700",
+        "gameName": "A.V.A. Alliance of Valiant Arms\u2122",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 0,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "307690",
+        "gameName": "Sleeping Dogs: Definitive Edition",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 604,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "212680",
+        "gameName": "FTL: Faster Than Light",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 42984,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "477160",
+        "gameName": "Human: Fall Flat",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 82047,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "945360",
+        "gameName": "Among Us",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 89654,
+        "steamIDs": [
+            "76561198053108848",
+            "76561198303570679",
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "674940",
+        "gameName": "Stick Fight: The Game",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 46857,
+        "steamIDs": [
+            "76561198053108848",
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "274170",
+        "gameName": "Hotline Miami 2: Wrong Number",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 360,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "570",
+        "gameName": "Dota 2",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 16653,
+        "steamIDs": [
+            "76561198053108848",
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "470220",
+        "gameName": "UNO",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 525,
+        "steamIDs": [
+            "76561198053108848",
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "237930",
+        "gameName": "Transistor",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 23099,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "218470",
+        "gameName": "RaiderZ",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 0,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "466240",
+        "gameName": "Deceit",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 61149,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "374320",
+        "gameName": "DARK SOULS\u2122 III",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 2887,
+        "steamIDs": [
+            "76561198053108848",
+            "76561198118863731",
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "346110",
+        "gameName": "ARK: Survival Evolved",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 5958,
+        "steamIDs": [
+            "76561198053108848",
+            "76561198192929858",
+            "76561198125542646",
+            "76561198118863731"
+        ]
+    },
+    {
+        "gameID": "6060",
+        "gameName": "Star Wars: Battlefront 2 (Classic, 2005)",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 362,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "629760",
+        "gameName": "MORDHAU",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 62033,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "431960",
+        "gameName": "Wallpaper Engine",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 212319,
+        "steamIDs": [
+            "76561198053108848",
+            "76561198118863731",
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "268130",
+        "gameName": "Heat Signature",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 54,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "214560",
+        "gameName": "Mark of the Ninja",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 16,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "304050",
+        "gameName": "Trove",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 978,
+        "steamIDs": [
+            "76561198053108848",
+            "76561198303570679"
+        ]
+    },
+    {
+        "gameID": "424280",
+        "gameName": "Iron Snout",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 15849,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "519190",
+        "gameName": "Next Day: Survival",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 86,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "262280",
+        "gameName": "Dungeons 2",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 1855,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "417860",
+        "gameName": "Emily is Away",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 29563,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "434570",
+        "gameName": "Blood and Bacon",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 245,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "658850",
+        "gameName": "Do Not Feed the Monkeys",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 86,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "383790",
+        "gameName": "The Ship: Remasted",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 428,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "534500",
+        "gameName": "Tiger Knight: Empire War",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 0,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "296470",
+        "gameName": "Mount Your Friends",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 4723,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "698780",
+        "gameName": "Doki Doki Literature Club",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 2266,
+        "steamIDs": [
+            "76561198053108848",
+            "76561198192929858"
+        ]
+    },
+    {
+        "gameID": "391540",
+        "gameName": "Undertale",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 2372,
+        "steamIDs": [
+            "76561198053108848",
+            "76561198118863731",
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "1128000",
+        "gameName": "Cube World",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 7956,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "341800",
+        "gameName": "Keep Talking and Nobody Explodes",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 94,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "206190",
+        "gameName": "Gunpoint",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 8639,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "203160",
+        "gameName": "Tomb Raider",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 1906,
+        "steamIDs": [
+            "76561198053108848",
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "317360",
+        "gameName": "Double Action: Boogaloo",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 58,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "227100",
+        "gameName": "Sniper Elite: Nazi Zombie Army",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 2904,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "264200",
+        "gameName": "One Finger Death Punch",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 38,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "293260",
+        "gameName": "Card Hunter",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 4278,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "438100",
+        "gameName": "VRChat",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 66002,
+        "steamIDs": [
+            "76561198053108848",
+            "76561198125542646",
+            "76561198303570679",
+            "76561198118863731",
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "639790",
+        "gameName": "DEEP SPACE WAIFU",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 7092,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "265210",
+        "gameName": "Viscera Cleanup Detail: Santa's Rampage",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 3426,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "218230",
+        "gameName": "PlanetSide 2",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 721,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "386360",
+        "gameName": "SMITE",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 72510,
+        "steamIDs": [
+            "76561198053108848",
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "242700",
+        "gameName": "Injustice: Gods Among Us Ultimate Edition",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 7900,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "427270",
+        "gameName": "Orcs Must Die! Unchained",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 160,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "200110",
+        "gameName": "Nosgoth",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 0,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "434730",
+        "gameName": "Half dead",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 2486,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "48000",
+        "gameName": "LIMBO",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 17929,
+        "steamIDs": [
+            "76561198053108848",
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "244710",
+        "gameName": "Shelter 1",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 2382,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "302380",
+        "gameName": "Floating Point",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 3604,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "386180",
+        "gameName": "Crossout",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 849,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "261180",
+        "gameName": "Lethal League",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 2861,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "244930",
+        "gameName": "SNOW",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 48,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "226840",
+        "gameName": "Age of Wonders III",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 5602,
+        "steamIDs": [
+            "76561198053108848",
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "385770",
+        "gameName": "Time Clickers",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 4692,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "639780",
+        "gameName": "DEEP SPACE WAIFU: FLAT JUSTICE",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 1909,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "11020",
+        "gameName": "TrackMania Nations Forever",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 160,
+        "steamIDs": [
+            "76561198053108848",
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "410670",
+        "gameName": "Suits: A Business RPG",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 648,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "41300",
+        "gameName": "Altitude",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 1765,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "657200",
+        "gameName": "Hand Simulator",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 425,
+        "steamIDs": [
+            "76561198053108848",
+            "76561198125542646",
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "70000",
+        "gameName": "Dino D-Day",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 7707,
+        "steamIDs": [
+            "76561198053108848",
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "445980",
+        "gameName": "Wizard of Legend",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 8952,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "355180",
+        "gameName": "Codename CURE",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 15163,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "258700",
+        "gameName": "Dragon Nest Europe",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 4341,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "310370",
+        "gameName": "The Way of Life Free Edition",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 6827,
+        "steamIDs": [
+            "76561198053108848",
+            "76561198118863731"
+        ]
+    },
+    {
+        "gameID": "200210",
+        "gameName": "Realm of the Mad God Exalt",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 444,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "360740",
+        "gameName": "Downwell",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 72,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "263980",
+        "gameName": "Out There Somewhere",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 6047,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "223710",
+        "gameName": "Cry of Fear",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 333,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "341720",
+        "gameName": "Among Ripples",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 1404,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "455690",
+        "gameName": "Pixel Puzzles Junior",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 40,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "449020",
+        "gameName": "The Bottom of the Well",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 497,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "321040",
+        "gameName": "DiRT 3 Complete Edition",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 0,
+        "steamIDs": [
+            "76561198053108848",
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "255520",
+        "gameName": "Viscera Cleanup Detail: Shadow Warrior",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 1621,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "208140",
+        "gameName": "Endless Space",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 6111,
+        "steamIDs": [
+            "76561198053108848",
+            "76561198303570679",
+            "76561198118863731"
+        ]
+    },
+    {
+        "gameID": "468560",
+        "gameName": "Blind Trust",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 1430,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "365720",
+        "gameName": "Skyrim Script Extender (SKSE)",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 1081,
+        "steamIDs": [
+            "76561198053108848",
+            "76561198118863731"
+        ]
+    },
+    {
+        "gameID": "793240",
+        "gameName": "Merlin vs Zombies",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 22,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "253920",
+        "gameName": "Gorky 17",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 676,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "316390",
+        "gameName": "Anomaly Zone",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 0,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "407530",
+        "gameName": "ARK: Survival Of The Fittest",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 28,
+        "steamIDs": [
+            "76561198053108848",
+            "76561198192929858",
+            "76561198125542646",
+            "76561198118863731"
+        ]
+    },
+    {
+        "gameID": "245890",
+        "gameName": "Borderlands 2: Headhunter 1: Bloody Harvest",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 317,
+        "steamIDs": [
+            "76561198053108848",
+            "76561198118863731"
+        ]
+    },
+    {
+        "gameID": "245910",
+        "gameName": "Borderlands 2: Headhunter 2: Wattle Gobbler",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 337,
+        "steamIDs": [
+            "76561198053108848",
+            "76561198118863731"
+        ]
+    },
+    {
+        "gameID": "245930",
+        "gameName": "Borderlands 2: Headhunter 3: Mercenary Day",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 389,
+        "steamIDs": [
+            "76561198053108848",
+            "76561198118863731"
+        ]
+    },
+    {
+        "gameID": "245950",
+        "gameName": "Borderlands 2: Headhunter 4: Wedding Day Massacre",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 265,
+        "steamIDs": [
+            "76561198053108848",
+            "76561198118863731"
+        ]
+    },
+    {
+        "gameID": "245970",
+        "gameName": "Borderlands 2: Headhunter 5: Son of Crawmerax",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 322,
+        "steamIDs": [
+            "76561198053108848",
+            "76561198118863731"
+        ]
+    },
+    {
+        "gameID": "456200",
+        "gameName": "Cities: Skylines - Match Day",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 658,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "235584",
+        "gameName": "Civilization V - Scrambled Continents Map Pack",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 159,
+        "steamIDs": [
+            "76561198053108848",
+            "76561198192929858",
+            "76561198303570679"
+        ]
+    },
+    {
+        "gameID": "512030",
+        "gameName": "Civilization VI - Aztec Civilization Pack",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 0,
+        "steamIDs": [
+            "76561198053108848",
+            "76561198192929858",
+            "76561198118863731"
+        ]
+    },
+    {
+        "gameID": "210897",
+        "gameName": "Crusader Kings II: African Portraits",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 0,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "592800",
+        "gameName": "Crusader Kings II: South Indian Portraits 5 Year Anniversary Gift",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 217,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "224600",
+        "gameName": "Defiance",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 21,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "205790",
+        "gameName": "Dota 2 Test",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 0,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "253880",
+        "gameName": "Earth 2150 Trilogy",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 323,
+        "steamIDs": [
+            "76561198053108848",
+            "76561198118863731"
+        ]
+    },
+    {
+        "gameID": "259300",
+        "gameName": "Earth 2150: Lost Souls",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 0,
+        "steamIDs": [
+            "76561198053108848",
+            "76561198118863731"
+        ]
+    },
+    {
+        "gameID": "259280",
+        "gameName": "Earth 2150: The Moon Project",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 0,
+        "steamIDs": [
+            "76561198053108848",
+            "76561198118863731"
+        ]
+    },
+    {
+        "gameID": "999860",
+        "gameName": "Enemy On Board",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 121,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "227310",
+        "gameName": "Euro Truck Simulator 2 - Going East!",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 2037,
+        "steamIDs": [
+            "76561198053108848",
+            "76561198118863731"
+        ]
+    },
+    {
+        "gameID": "304212",
+        "gameName": "Euro Truck Simulator 2 - Scandinavia",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 3891,
+        "steamIDs": [
+            "76561198053108848",
+            "76561198118863731"
+        ]
+    },
+    {
+        "gameID": "1277570",
+        "gameName": "Golf With Your Friends - Caddy Pack",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 19,
+        "steamIDs": [
+            "76561198053108848",
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "860950",
+        "gameName": "Mark of the Ninja: Remastered",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 80,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "239570",
+        "gameName": "Mark of the Ninja: Special Edition DLC",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 0,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "311340",
+        "gameName": "METAL GEAR SOLID V: GROUND ZEROES",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 8602,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "48705",
+        "gameName": "Mount & Blade: Warband - Napoleonic Wars",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 2802,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "321300",
+        "gameName": "Mount & Blade: Warband - Viking Conquest Reforged Edition",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 4062,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "438680",
+        "gameName": "One Troll Army",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 1274,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "261570",
+        "gameName": "Ori and the Blind Forest",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 369,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "1083500",
+        "gameName": "PlanetSide 2 - Test",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 0,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "420970",
+        "gameName": "RoBoRumble",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 11,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "700580",
+        "gameName": "Rust - Staging Branch",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 0,
+        "steamIDs": [
+            "76561198053108848",
+            "76561198303570679",
+            "76561198118863731",
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "275100",
+        "gameName": "Shelter 2",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 2724,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "235580",
+        "gameName": "Sid Meier's Civilization V: Brave New World",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 1185,
+        "steamIDs": [
+            "76561198053108848",
+            "76561198192929858",
+            "76561198303570679"
+        ]
+    },
+    {
+        "gameID": "202485",
+        "gameName": "Skyrim High Resolution Texture Pack",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 2058,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "858460",
+        "gameName": "SMITE - Public Test",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 0,
+        "steamIDs": [
+            "76561198053108848",
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "633310",
+        "gameName": "Stellaris: Anniversary Portraits",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 571,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "716670",
+        "gameName": "Stellaris: Apocalypse",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 1265,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "553280",
+        "gameName": "Stellaris: Utopia",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 1001,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "265191",
+        "gameName": "Thief - Opportunist",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 68,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "259900",
+        "gameName": "Thief - The Bank Heist",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 80,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "623990",
+        "gameName": "Tom Clancy's Rainbow Six Siege - Test Server",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 0,
+        "steamIDs": [
+            "76561198053108848",
+            "76561198118863731"
+        ]
+    },
+    {
+        "gameID": "429881",
+        "gameName": "Unturned - Early Access",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 0,
+        "steamIDs": [
+            "76561198053108848",
+            "76561198125542646",
+            "76561198118863731"
+        ]
+    },
+    {
+        "gameID": "399620",
+        "gameName": "XCOM 2: Resistance Warrior Pack",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 123,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "225340",
+        "gameName": "XCOM: Enemy Within",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 1283,
+        "steamIDs": [
+            "76561198053108848"
+        ]
+    },
+    {
+        "gameID": "397060",
+        "gameName": "Faeria",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 17,
+        "steamIDs": [
+            "76561198192929858"
+        ]
+    },
+    {
+        "gameID": "238370",
+        "gameName": "Magicka 2",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 5911,
+        "steamIDs": [
+            "76561198192929858"
+        ]
+    },
+    {
+        "gameID": "247080",
+        "gameName": "Crypt of the NecroDancer",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 174,
+        "steamIDs": [
+            "76561198192929858"
+        ]
+    },
+    {
+        "gameID": "453480",
+        "gameName": "Shadowverse",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 123,
+        "steamIDs": [
+            "76561198192929858"
+        ]
+    },
+    {
+        "gameID": "219740",
+        "gameName": "Don't Starve",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 857,
+        "steamIDs": [
+            "76561198192929858"
+        ]
+    },
+    {
+        "gameID": "308060",
+        "gameName": "Black The Fall",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 433,
+        "steamIDs": [
+            "76561198192929858"
+        ]
+    },
+    {
+        "gameID": "512034",
+        "gameName": "Civilization VI - Australia Civilization & Scenario Pack",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 706,
+        "steamIDs": [
+            "76561198192929858"
+        ]
+    },
+    {
+        "gameID": "512032",
+        "gameName": "Civilization VI - Vikings Scenario Pack",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 1083,
+        "steamIDs": [
+            "76561198192929858"
+        ]
+    },
+    {
+        "gameID": "712640",
+        "gameName": "Don't Starve: Hamlet",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 1212,
+        "steamIDs": [
+            "76561198192929858"
+        ]
+    },
+    {
+        "gameID": "393010",
+        "gameName": "Don't Starve: Shipwrecked",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 2909,
+        "steamIDs": [
+            "76561198192929858"
+        ]
+    },
+    {
+        "gameID": "282470",
+        "gameName": "Don't Starve Reign of Giants",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 1432,
+        "steamIDs": [
+            "76561198192929858"
+        ]
+    },
+    {
+        "gameID": "290140",
+        "gameName": "Echo of Soul",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 0,
+        "steamIDs": [
+            "76561198192929858",
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "319630",
+        "gameName": "Life is Strange\u2122",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 141842,
+        "steamIDs": [
+            "76561198192929858",
+            "76561198118863731"
+        ]
+    },
+    {
+        "gameID": "202090",
+        "gameName": "Magicka: Wizard Wars",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 0,
+        "steamIDs": [
+            "76561198192929858"
+        ]
+    },
+    {
+        "gameID": "115800",
+        "gameName": "Owlboy",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 2685,
+        "steamIDs": [
+            "76561198192929858"
+        ]
+    },
+    {
+        "gameID": "813820",
+        "gameName": "Realm Royale",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 772,
+        "steamIDs": [
+            "76561198192929858"
+        ]
+    },
+    {
+        "gameID": "878760",
+        "gameName": "Realm Royale - Test Server",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 0,
+        "steamIDs": [
+            "76561198192929858"
+        ]
+    },
+    {
+        "gameID": "544330",
+        "gameName": "Snake Pass",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 745,
+        "steamIDs": [
+            "76561198192929858"
+        ]
+    },
+    {
+        "gameID": "343860",
+        "gameName": "Tacoma",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 42,
+        "steamIDs": [
+            "76561198192929858"
+        ]
+    },
+    {
+        "gameID": "696480",
+        "gameName": "The Norwood Suite",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 241,
+        "steamIDs": [
+            "76561198192929858"
+        ]
+    },
+    {
+        "gameID": "107410",
+        "gameName": "Arma 3",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 2240,
+        "steamIDs": [
+            "76561198125542646",
+            "76561198118863731",
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "271590",
+        "gameName": "Grand Theft Auto V",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 831617,
+        "steamIDs": [
+            "76561198125542646",
+            "76561198118863731"
+        ]
+    },
+    {
+        "gameID": "573090",
+        "gameName": "Stormworks: Build and Rescue",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 10044,
+        "steamIDs": [
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "314160",
+        "gameName": "Microsoft Flight Simulator X: Steam Edition",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 393,
+        "steamIDs": [
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "222880",
+        "gameName": "Insurgency",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 82261,
+        "steamIDs": [
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "259080",
+        "gameName": "Just Cause 2: Multiplayer Mod",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 62,
+        "steamIDs": [
+            "76561198125542646",
+            "76561198303570679"
+        ]
+    },
+    {
+        "gameID": "359320",
+        "gameName": "Elite Dangerous",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 897,
+        "steamIDs": [
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "220200",
+        "gameName": "Kerbal Space Program",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 843,
+        "steamIDs": [
+            "76561198125542646",
+            "76561198303570679",
+            "76561198118863731",
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "233250",
+        "gameName": "Planetary Annihilation",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 0,
+        "steamIDs": [
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "386070",
+        "gameName": "Planetary Annihilation: TITANS",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 98,
+        "steamIDs": [
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "269950",
+        "gameName": "X-Plane 11",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 8319,
+        "steamIDs": [
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "244450",
+        "gameName": "Men of War: Assault Squad 2",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 382,
+        "steamIDs": [
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "218620",
+        "gameName": "PAYDAY 2",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 3871,
+        "steamIDs": [
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "268650",
+        "gameName": "From The Depths",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 80,
+        "steamIDs": [
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "295110",
+        "gameName": "Just Survive",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 65726,
+        "steamIDs": [
+            "76561198125542646",
+            "76561198118863731"
+        ]
+    },
+    {
+        "gameID": "8190",
+        "gameName": "Just Cause 2",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 33308,
+        "steamIDs": [
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "393380",
+        "gameName": "Squad",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 40254,
+        "steamIDs": [
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "104900",
+        "gameName": "ORION: Prelude",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 29,
+        "steamIDs": [
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "203290",
+        "gameName": "America's Army: Proving Grounds",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 9405,
+        "steamIDs": [
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "505460",
+        "gameName": "Foxhole",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 274,
+        "steamIDs": [
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "650220",
+        "gameName": "Interplanetary: Enhanced Edition",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 282,
+        "steamIDs": [
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "211500",
+        "gameName": "RaceRoom Racing Experience",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 242,
+        "steamIDs": [
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "287450",
+        "gameName": "Rise of Nations: Extended Edition",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 7025,
+        "steamIDs": [
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "244210",
+        "gameName": "Assetto Corsa",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 847,
+        "steamIDs": [
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "265630",
+        "gameName": "Fistful of Frags",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 30560,
+        "steamIDs": [
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "35720",
+        "gameName": "Trine 2",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 78,
+        "steamIDs": [
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "214420",
+        "gameName": "Gear Up",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 8658,
+        "steamIDs": [
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "272350",
+        "gameName": "Tom Clancy's Ghost Recon Phantoms - EU",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 0,
+        "steamIDs": [
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "271290",
+        "gameName": "HAWKEN",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 0,
+        "steamIDs": [
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "443080",
+        "gameName": "Elite Dangerous: Arena",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 0,
+        "steamIDs": [
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "302670",
+        "gameName": "Call to Arms",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 6822,
+        "steamIDs": [
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "715670",
+        "gameName": "DashPanel",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 113,
+        "steamIDs": [
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "236870",
+        "gameName": "HITMAN\u2122",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 21066,
+        "steamIDs": [
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "8600",
+        "gameName": "RACE 07",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 887,
+        "steamIDs": [
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "367450",
+        "gameName": "Poly Bridge",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 9315,
+        "steamIDs": [
+            "76561198125542646",
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "253710",
+        "gameName": "theHunter Classic",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 31495,
+        "steamIDs": [
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "209080",
+        "gameName": "Guns of Icarus Online",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 8293,
+        "steamIDs": [
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "595140",
+        "gameName": "Immortal Redneck",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 17,
+        "steamIDs": [
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "287920",
+        "gameName": "Mortal Online",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 2865,
+        "steamIDs": [
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "8870",
+        "gameName": "BioShock Infinite",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 73911,
+        "steamIDs": [
+            "76561198125542646",
+            "76561198118863731"
+        ]
+    },
+    {
+        "gameID": "711980",
+        "gameName": "Starship EVO",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 93,
+        "steamIDs": [
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "397100",
+        "gameName": "MachineCraft",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 908,
+        "steamIDs": [
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "694720",
+        "gameName": "not my car \u2013 Battle Royale",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 1360,
+        "steamIDs": [
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "223750",
+        "gameName": "DCS World Steam Edition",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 345,
+        "steamIDs": [
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "544810",
+        "gameName": "KARDS - The WWII Card Game",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 371,
+        "steamIDs": [
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "239450",
+        "gameName": "Gun Monkeys",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 0,
+        "steamIDs": [
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "433850",
+        "gameName": "Z1 Battle Royale",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 395,
+        "steamIDs": [
+            "76561198125542646",
+            "76561198118863731"
+        ]
+    },
+    {
+        "gameID": "356570",
+        "gameName": "Party Hard",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 5012,
+        "steamIDs": [
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "418460",
+        "gameName": "Rising Storm 2: Vietnam",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 766,
+        "steamIDs": [
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "670290",
+        "gameName": "Real Pool 3D - Poolians",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 3322,
+        "steamIDs": [
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "12750",
+        "gameName": "GRID",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 0,
+        "steamIDs": [
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "588430",
+        "gameName": "Fallout Shelter",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 714,
+        "steamIDs": [
+            "76561198125542646",
+            "76561198118863731"
+        ]
+    },
+    {
+        "gameID": "262410",
+        "gameName": "World of Guns: Gun Disassembly",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 15541,
+        "steamIDs": [
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "444250",
+        "gameName": "Crown and Council",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 729,
+        "steamIDs": [
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "8500",
+        "gameName": "EVE Online",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 570,
+        "steamIDs": [
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "550650",
+        "gameName": "Black Squad",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 967,
+        "steamIDs": [
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "1045930",
+        "gameName": "1vs1: Battle Royale for the throne",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 18,
+        "steamIDs": [
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "877360",
+        "gameName": "18+",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 196,
+        "steamIDs": [
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "989340",
+        "gameName": "Aliens Don't Exist",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 11,
+        "steamIDs": [
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "876910",
+        "gameName": "Aquarium Simulator",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 3,
+        "steamIDs": [
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "530700",
+        "gameName": "Argo",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 66,
+        "steamIDs": [
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "395180",
+        "gameName": "Arma 3 Apex",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 2070,
+        "steamIDs": [
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "288520",
+        "gameName": "Arma 3 Karts",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 537,
+        "steamIDs": [
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "639600",
+        "gameName": "Arma 3 Malden",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 546,
+        "steamIDs": [
+            "76561198125542646",
+            "76561198118863731",
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "275700",
+        "gameName": "Arma 3 Zeus",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 524,
+        "steamIDs": [
+            "76561198125542646",
+            "76561198118863731",
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "347990",
+        "gameName": "Assetto Corsa - Dream Pack 1",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 473,
+        "steamIDs": [
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "348510",
+        "gameName": "Autobahn Police Simulator",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 444,
+        "steamIDs": [
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "896380",
+        "gameName": "Before Nightfall",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 31,
+        "steamIDs": [
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "7670",
+        "gameName": "BioShock",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 203,
+        "steamIDs": [
+            "76561198125542646",
+            "76561198118863731"
+        ]
+    },
+    {
+        "gameID": "8850",
+        "gameName": "BioShock 2",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 8082,
+        "steamIDs": [
+            "76561198125542646",
+            "76561198118863731"
+        ]
+    },
+    {
+        "gameID": "409720",
+        "gameName": "BioShock 2 Remastered",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 8108,
+        "steamIDs": [
+            "76561198125542646",
+            "76561198118863731"
+        ]
+    },
+    {
+        "gameID": "214933",
+        "gameName": "BioShock Infinite - Season Pass",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 508,
+        "steamIDs": [
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "214931",
+        "gameName": "BioShock Infinite: Burial at Sea - Episode 1",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 930,
+        "steamIDs": [
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "214932",
+        "gameName": "BioShock Infinite: Burial at Sea - Episode 2",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 26,
+        "steamIDs": [
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "409710",
+        "gameName": "BioShock Remastered",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 670,
+        "steamIDs": [
+            "76561198125542646",
+            "76561198118863731"
+        ]
+    },
+    {
+        "gameID": "802040",
+        "gameName": "Captive",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 54,
+        "steamIDs": [
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "1024780",
+        "gameName": "Capture the planet: Cute War",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 1,
+        "steamIDs": [
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "1005900",
+        "gameName": "Christmas Time 2019",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 13,
+        "steamIDs": [
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "1180310",
+        "gameName": "Comanche Open Multiplayer Beta",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 0,
+        "steamIDs": [
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "1065160",
+        "gameName": "Deatherem",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 5,
+        "steamIDs": [
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "857520",
+        "gameName": "Degrees",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 13,
+        "steamIDs": [
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "310560",
+        "gameName": "DiRT Rally",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 18229,
+        "steamIDs": [
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "333930",
+        "gameName": "Dirty Bomb",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 57849,
+        "steamIDs": [
+            "76561198125542646",
+            "76561198303570679"
+        ]
+    },
+    {
+        "gameID": "849920",
+        "gameName": "Dungeon Quest",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 4,
+        "steamIDs": [
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "828230",
+        "gameName": "Dungeons of the dead",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 0,
+        "steamIDs": [
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "441340",
+        "gameName": "ED: Horizons Season Pass",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 18,
+        "steamIDs": [
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "977110",
+        "gameName": "Elite Archery",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 3,
+        "steamIDs": [
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "923420",
+        "gameName": "Farstorm",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 34,
+        "steamIDs": [
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "661000",
+        "gameName": "Flow:The Sliding",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 95,
+        "steamIDs": [
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "1065830",
+        "gameName": "FORGOTTEN IN HELL",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 8,
+        "steamIDs": [
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "697850",
+        "gameName": "FPS - Fun Puzzle Shooter",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 16,
+        "steamIDs": [
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "8660",
+        "gameName": "GTR Evolution",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 47,
+        "steamIDs": [
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "888690",
+        "gameName": "Guess who ?",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 31,
+        "steamIDs": [
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "439700",
+        "gameName": "H1Z1: Test Server",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 2414,
+        "steamIDs": [
+            "76561198125542646",
+            "76561198118863731"
+        ]
+    },
+    {
+        "gameID": "981790",
+        "gameName": "Halloween Girl",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 21,
+        "steamIDs": [
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "1317230",
+        "gameName": "Hearts of Iron IV: Allied Armor Pack",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 151,
+        "steamIDs": [
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "616200",
+        "gameName": "Hearts of Iron IV: Colonel Edition Upgrade Pack",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 0,
+        "steamIDs": [
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "702350",
+        "gameName": "Hearts of Iron IV: Waking the Tiger",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 1313,
+        "steamIDs": [
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "939160",
+        "gameName": "HENTAI IDOL",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 43,
+        "steamIDs": [
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "1026200",
+        "gameName": "Hentai Loli 3D",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 48,
+        "steamIDs": [
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "975240",
+        "gameName": "Hentai Shooter 3D: Christmas Party",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 97,
+        "steamIDs": [
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "863550",
+        "gameName": "HITMAN\u2122 2",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 512,
+        "steamIDs": [
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "1023040",
+        "gameName": "Hockey Camp - Goaltender",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 0,
+        "steamIDs": [
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "278910",
+        "gameName": "Interplanetary",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 532,
+        "steamIDs": [
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "362300",
+        "gameName": "Just Survive Test Server",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 277,
+        "steamIDs": [
+            "76561198125542646",
+            "76561198118863731"
+        ]
+    },
+    {
+        "gameID": "214510",
+        "gameName": "LEGO\u00ae The Lord of the Rings\u2122",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 83,
+        "steamIDs": [
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "525720",
+        "gameName": "Minerva's Den Remastered",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 293,
+        "steamIDs": [
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "876160",
+        "gameName": "Occupy White Walls",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 887,
+        "steamIDs": [
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "680360",
+        "gameName": "Regions Of Ruin",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 17,
+        "steamIDs": [
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "737230",
+        "gameName": "Rising Storm 2: Vietnam CTB Beta",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 0,
+        "steamIDs": [
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "3910",
+        "gameName": "Sid Meier's Civilization III: Complete",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 60,
+        "steamIDs": [
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "774941",
+        "gameName": "Squad - Public Testing",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 0,
+        "steamIDs": [
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "55150",
+        "gameName": "Warhammer 40,000: Space Marine",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 6455,
+        "steamIDs": [
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "867140",
+        "gameName": "WIN THE GAME: WTF!",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 57,
+        "steamIDs": [
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "903160",
+        "gameName": "Wunderwaffe",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 11,
+        "steamIDs": [
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "582570",
+        "gameName": "X-Plane 11 - Global Scenery: Africa",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 21,
+        "steamIDs": [
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "582571",
+        "gameName": "X-Plane 11 - Global Scenery: Asia",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 22,
+        "steamIDs": [
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "582572",
+        "gameName": "X-Plane 11 - Global Scenery: Australia",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 10,
+        "steamIDs": [
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "582573",
+        "gameName": "X-Plane 11 - Global Scenery: Europe",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 29,
+        "steamIDs": [
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "582574",
+        "gameName": "X-Plane 11 - Global Scenery: North America",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 12,
+        "steamIDs": [
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "582575",
+        "gameName": "X-Plane 11 - Global Scenery: South America",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 14,
+        "steamIDs": [
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "298610",
+        "gameName": "Ylands",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 5230,
+        "steamIDs": [
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "1036910",
+        "gameName": "\u20ac100",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 32,
+        "steamIDs": [
+            "76561198125542646"
+        ]
+    },
+    {
+        "gameID": "578080",
+        "gameName": "PLAYERUNKNOWN'S BATTLEGROUNDS",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 19638,
+        "steamIDs": [
+            "76561198303570679"
+        ]
+    },
+    {
+        "gameID": "240720",
+        "gameName": "Getting Over It with Bennett Foddy",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 812,
+        "steamIDs": [
+            "76561198303570679"
+        ]
+    },
+    {
+        "gameID": "346900",
+        "gameName": "AdVenture Capitalist",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 44086,
+        "steamIDs": [
+            "76561198303570679"
+        ]
+    },
+    {
+        "gameID": "555160",
+        "gameName": "Pavlov VR",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 589,
+        "steamIDs": [
+            "76561198303570679",
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "248570",
+        "gameName": "Toribash",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 97,
+        "steamIDs": [
+            "76561198303570679"
+        ]
+    },
+    {
+        "gameID": "278360",
+        "gameName": "A Story About My Uncle",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 63,
+        "steamIDs": [
+            "76561198303570679"
+        ]
+    },
+    {
+        "gameID": "323850",
+        "gameName": "Move or Die",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 224,
+        "steamIDs": [
+            "76561198303570679"
+        ]
+    },
+    {
+        "gameID": "626680",
+        "gameName": "Kreedz Climbing",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 865,
+        "steamIDs": [
+            "76561198303570679"
+        ]
+    },
+    {
+        "gameID": "462930",
+        "gameName": "AdVenture Communist",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 4036,
+        "steamIDs": [
+            "76561198303570679"
+        ]
+    },
+    {
+        "gameID": "436150",
+        "gameName": "Governor of Poker 3",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 5627,
+        "steamIDs": [
+            "76561198303570679"
+        ]
+    },
+    {
+        "gameID": "444090",
+        "gameName": "Paladins",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 3292,
+        "steamIDs": [
+            "76561198303570679",
+            "76561198118863731",
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "479130",
+        "gameName": "ESEA",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 64,
+        "steamIDs": [
+            "76561198303570679"
+        ]
+    },
+    {
+        "gameID": "363970",
+        "gameName": "Clicker Heroes",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 52673,
+        "steamIDs": [
+            "76561198303570679"
+        ]
+    },
+    {
+        "gameID": "231430",
+        "gameName": "Company of Heroes 2",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 634,
+        "steamIDs": [
+            "76561198303570679"
+        ]
+    },
+    {
+        "gameID": "238320",
+        "gameName": "Outlast",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 486,
+        "steamIDs": [
+            "76561198303570679",
+            "76561198118863731"
+        ]
+    },
+    {
+        "gameID": "273300",
+        "gameName": "Outlast: Whistleblower DLC",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 19,
+        "steamIDs": [
+            "76561198303570679",
+            "76561198118863731"
+        ]
+    },
+    {
+        "gameID": "596350",
+        "gameName": "Paladins - Public Test",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 0,
+        "steamIDs": [
+            "76561198303570679",
+            "76561198118863731",
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "503560",
+        "gameName": "911 Operator",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 8577,
+        "steamIDs": [
+            "76561198118863731"
+        ]
+    },
+    {
+        "gameID": "450550",
+        "gameName": "American Truck Simulator - Wheel Tuning Pack",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 317,
+        "steamIDs": [
+            "76561198118863731"
+        ]
+    },
+    {
+        "gameID": "361420",
+        "gameName": "ASTRONEER",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 56169,
+        "steamIDs": [
+            "76561198118863731"
+        ]
+    },
+    {
+        "gameID": "362890",
+        "gameName": "Black Mesa",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 958,
+        "steamIDs": [
+            "76561198118863731"
+        ]
+    },
+    {
+        "gameID": "508170",
+        "gameName": "BlackSmith HIT",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 239,
+        "steamIDs": [
+            "76561198118863731"
+        ]
+    },
+    {
+        "gameID": "202970",
+        "gameName": "Call of Duty: Black Ops II",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 121,
+        "steamIDs": [
+            "76561198118863731"
+        ]
+    },
+    {
+        "gameID": "202990",
+        "gameName": "Call of Duty: Black Ops II - Multiplayer",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 121,
+        "steamIDs": [
+            "76561198118863731"
+        ]
+    },
+    {
+        "gameID": "212910",
+        "gameName": "Call of Duty: Black Ops II - Zombies",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 0,
+        "steamIDs": [
+            "76561198118863731"
+        ]
+    },
+    {
+        "gameID": "1127900",
+        "gameName": "CYBER FURRY GIRL",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 25,
+        "steamIDs": [
+            "76561198118863731"
+        ]
+    },
+    {
+        "gameID": "310510",
+        "gameName": "Deathtrap",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 16,
+        "steamIDs": [
+            "76561198118863731"
+        ]
+    },
+    {
+        "gameID": "1085660",
+        "gameName": "Destiny 2",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 277253,
+        "steamIDs": [
+            "76561198118863731"
+        ]
+    },
+    {
+        "gameID": "379720",
+        "gameName": "DOOM",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 81675,
+        "steamIDs": [
+            "76561198118863731"
+        ]
+    },
+    {
+        "gameID": "239140",
+        "gameName": "Dying Light",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 4329,
+        "steamIDs": [
+            "76561198118863731"
+        ]
+    },
+    {
+        "gameID": "826180",
+        "gameName": "EONIA",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 19,
+        "steamIDs": [
+            "76561198118863731"
+        ]
+    },
+    {
+        "gameID": "388470",
+        "gameName": "Euro Truck Simulator 2 - Cabin Accessories",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 24,
+        "steamIDs": [
+            "76561198118863731"
+        ]
+    },
+    {
+        "gameID": "304214",
+        "gameName": "Euro Truck Simulator 2 - High Power Cargo Pack",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 1429,
+        "steamIDs": [
+            "76561198118863731"
+        ]
+    },
+    {
+        "gameID": "388475",
+        "gameName": "Euro Truck Simulator 2 - Wheel Tuning Pack",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 598,
+        "steamIDs": [
+            "76561198118863731"
+        ]
+    },
+    {
+        "gameID": "928600",
+        "gameName": "F1 2019",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 254,
+        "steamIDs": [
+            "76561198118863731"
+        ]
+    },
+    {
+        "gameID": "38400",
+        "gameName": "Fallout",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 6296,
+        "steamIDs": [
+            "76561198118863731"
+        ]
+    },
+    {
+        "gameID": "38410",
+        "gameName": "Fallout 2",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 6194,
+        "steamIDs": [
+            "76561198118863731"
+        ]
+    },
+    {
+        "gameID": "22370",
+        "gameName": "Fallout 3 - Game of the Year Edition",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 306,
+        "steamIDs": [
+            "76561198118863731"
+        ]
+    },
+    {
+        "gameID": "38420",
+        "gameName": "Fallout Tactics",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 14,
+        "steamIDs": [
+            "76561198118863731"
+        ]
+    },
+    {
+        "gameID": "220240",
+        "gameName": "Far Cry\u00ae 3",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 947,
+        "steamIDs": [
+            "76561198118863731"
+        ]
+    },
+    {
+        "gameID": "383870",
+        "gameName": "Firewatch",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 43400,
+        "steamIDs": [
+            "76561198118863731"
+        ]
+    },
+    {
+        "gameID": "294530",
+        "gameName": "Freddi Fish 2: The Case of the Haunted Schoolhouse",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 107,
+        "steamIDs": [
+            "76561198118863731"
+        ]
+    },
+    {
+        "gameID": "323190",
+        "gameName": "Frostpunk",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 44499,
+        "steamIDs": [
+            "76561198118863731"
+        ]
+    },
+    {
+        "gameID": "1334590",
+        "gameName": "Furry Love",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 629,
+        "steamIDs": [
+            "76561198118863731"
+        ]
+    },
+    {
+        "gameID": "341120",
+        "gameName": "Glorkian Warrior: The Trials Of Glork",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 93,
+        "steamIDs": [
+            "76561198118863731"
+        ]
+    },
+    {
+        "gameID": "265930",
+        "gameName": "Goat Simulator",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 41476,
+        "steamIDs": [
+            "76561198118863731"
+        ]
+    },
+    {
+        "gameID": "12110",
+        "gameName": "Grand Theft Auto: Vice City",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 254,
+        "steamIDs": [
+            "76561198118863731"
+        ]
+    },
+    {
+        "gameID": "12210",
+        "gameName": "Grand Theft Auto IV: The Complete Edition",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 797,
+        "steamIDs": [
+            "76561198118863731"
+        ]
+    },
+    {
+        "gameID": "1284410",
+        "gameName": "GWENT: The Witcher Card Game",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 8388,
+        "steamIDs": [
+            "76561198118863731"
+        ]
+    },
+    {
+        "gameID": "1288440",
+        "gameName": "GWENT: The Witcher Card Game - 4k graphic assets pack",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 60,
+        "steamIDs": [
+            "76561198118863731"
+        ]
+    },
+    {
+        "gameID": "220",
+        "gameName": "Half-Life 2",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 77449,
+        "steamIDs": [
+            "76561198118863731",
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "320",
+        "gameName": "Half-Life 2: Deathmatch",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 84,
+        "steamIDs": [
+            "76561198118863731",
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "380",
+        "gameName": "Half-Life 2: Episode One",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 232,
+        "steamIDs": [
+            "76561198118863731",
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "420",
+        "gameName": "Half-Life 2: Episode Two",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 281,
+        "steamIDs": [
+            "76561198118863731",
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "340",
+        "gameName": "Half-Life 2: Lost Coast",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 78,
+        "steamIDs": [
+            "76561198118863731",
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "360",
+        "gameName": "Half-Life Deathmatch: Source",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 41,
+        "steamIDs": [
+            "76561198118863731",
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "277430",
+        "gameName": "Halo: Spartan Assault",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 3303,
+        "steamIDs": [
+            "76561198118863731"
+        ]
+    },
+    {
+        "gameID": "324570",
+        "gameName": "Halo: Spartan Strike",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 814,
+        "steamIDs": [
+            "76561198118863731"
+        ]
+    },
+    {
+        "gameID": "339800",
+        "gameName": "HuniePop",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 246,
+        "steamIDs": [
+            "76561198118863731"
+        ]
+    },
+    {
+        "gameID": "225540",
+        "gameName": "Just Cause 3",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 817,
+        "steamIDs": [
+            "76561198118863731",
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "400551",
+        "gameName": "Just Cause\u2122 3 DLC: Sky Fortress Pack",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 636,
+        "steamIDs": [
+            "76561198118863731"
+        ]
+    },
+    {
+        "gameID": "1273710",
+        "gameName": "King of Crabs",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 455,
+        "steamIDs": [
+            "76561198118863731"
+        ]
+    },
+    {
+        "gameID": "436520",
+        "gameName": "Line of Sight",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 8618,
+        "steamIDs": [
+            "76561198118863731"
+        ]
+    },
+    {
+        "gameID": "652980",
+        "gameName": "Loading Screen Simulator",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 7669,
+        "steamIDs": [
+            "76561198118863731"
+        ]
+    },
+    {
+        "gameID": "298260",
+        "gameName": "Only If",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 5948,
+        "steamIDs": [
+            "76561198118863731"
+        ]
+    },
+    {
+        "gameID": "317400",
+        "gameName": "Portal Stories: Mel",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 254,
+        "steamIDs": [
+            "76561198118863731"
+        ]
+    },
+    {
+        "gameID": "244050",
+        "gameName": "Rise of Flight United",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 26,
+        "steamIDs": [
+            "76561198118863731"
+        ]
+    },
+    {
+        "gameID": "248820",
+        "gameName": "Risk of Rain",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 18344,
+        "steamIDs": [
+            "76561198118863731"
+        ]
+    },
+    {
+        "gameID": "449050",
+        "gameName": "Rock Paper Scissors Champion",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 465,
+        "steamIDs": [
+            "76561198118863731"
+        ]
+    },
+    {
+        "gameID": "286940",
+        "gameName": "S.K.I.L.L. - Special Force 2",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 45,
+        "steamIDs": [
+            "76561198118863731"
+        ]
+    },
+    {
+        "gameID": "522210",
+        "gameName": "Serial Cleaner",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 261,
+        "steamIDs": [
+            "76561198118863731",
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "1258080",
+        "gameName": "Shop Titans",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 445,
+        "steamIDs": [
+            "76561198118863731"
+        ]
+    },
+    {
+        "gameID": "282140",
+        "gameName": "SOMA",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 257,
+        "steamIDs": [
+            "76561198118863731"
+        ]
+    },
+    {
+        "gameID": "303610",
+        "gameName": "Suicide Guy",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 92,
+        "steamIDs": [
+            "76561198118863731"
+        ]
+    },
+    {
+        "gameID": "233720",
+        "gameName": "Surgeon Simulator",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 78,
+        "steamIDs": [
+            "76561198118863731"
+        ]
+    },
+    {
+        "gameID": "306130",
+        "gameName": "The Elder Scrolls Online",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 68010,
+        "steamIDs": [
+            "76561198118863731"
+        ]
+    },
+    {
+        "gameID": "489830",
+        "gameName": "The Elder Scrolls V: Skyrim Special Edition",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 48866,
+        "steamIDs": [
+            "76561198118863731"
+        ]
+    },
+    {
+        "gameID": "265590",
+        "gameName": "The Red Solstice",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 767,
+        "steamIDs": [
+            "76561198118863731"
+        ]
+    },
+    {
+        "gameID": "292030",
+        "gameName": "The Witcher 3: Wild Hunt",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 380335,
+        "steamIDs": [
+            "76561198118863731",
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "355880",
+        "gameName": "The Witcher 3: Wild Hunt - Expansion Pass",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 52,
+        "steamIDs": [
+            "76561198118863731",
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "460930",
+        "gameName": "Tom Clancy's Ghost Recon\u00ae Wildlands",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 38456,
+        "steamIDs": [
+            "76561198118863731"
+        ]
+    },
+    {
+        "gameID": "334230",
+        "gameName": "Town of Salem",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 848,
+        "steamIDs": [
+            "76561198118863731"
+        ]
+    },
+    {
+        "gameID": "335240",
+        "gameName": "Transformice",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 226,
+        "steamIDs": [
+            "76561198118863731"
+        ]
+    },
+    {
+        "gameID": "365300",
+        "gameName": "Transmissions: Element 120",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 8942,
+        "steamIDs": [
+            "76561198118863731"
+        ]
+    },
+    {
+        "gameID": "574640",
+        "gameName": "Unalive",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 105,
+        "steamIDs": [
+            "76561198118863731"
+        ]
+    },
+    {
+        "gameID": "230290",
+        "gameName": "Universe Sandbox",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 9533,
+        "steamIDs": [
+            "76561198118863731"
+        ]
+    },
+    {
+        "gameID": "201810",
+        "gameName": "Wolfenstein: The New Order",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 329,
+        "steamIDs": [
+            "76561198118863731"
+        ]
+    },
+    {
+        "gameID": "350080",
+        "gameName": "Wolfenstein: The Old Blood",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 7513,
+        "steamIDs": [
+            "76561198118863731"
+        ]
+    },
+    {
+        "gameID": "620980",
+        "gameName": "Beat Saber",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 36458,
+        "steamIDs": [
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "391220",
+        "gameName": "Rise of the Tomb Raider",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 65047,
+        "steamIDs": [
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "496240",
+        "gameName": "Onward",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 5135,
+        "steamIDs": [
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "232910",
+        "gameName": "TrackMania\u00b2 Stadium",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 4355,
+        "steamIDs": [
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "638000",
+        "gameName": "When Ski Lifts Go Wrong",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 380,
+        "steamIDs": [
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "343440",
+        "gameName": "Crash Drive 2",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 638,
+        "steamIDs": [
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "546560",
+        "gameName": "Half-Life: Alyx",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 32217,
+        "steamIDs": [
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "268910",
+        "gameName": "Cuphead",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 54003,
+        "steamIDs": [
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "732730",
+        "gameName": "WT2",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 822,
+        "steamIDs": [
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "1318690",
+        "gameName": "shapez.io",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 524,
+        "steamIDs": [
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "508440",
+        "gameName": "Totally Accurate Battle Simulator",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 37212,
+        "steamIDs": [
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "617830",
+        "gameName": "SUPERHOT VR",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 86,
+        "steamIDs": [
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "94400",
+        "gameName": "Nidhogg",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 4873,
+        "steamIDs": [
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "210970",
+        "gameName": "The Witness",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 8178,
+        "steamIDs": [
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "493340",
+        "gameName": "Planet Coaster",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 790,
+        "steamIDs": [
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "922320",
+        "gameName": "Sniper 3D Assassin: Shoot to Kill",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 973,
+        "steamIDs": [
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "26800",
+        "gameName": "Braid",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 4959,
+        "steamIDs": [
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "448280",
+        "gameName": "Job Simulator",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 45,
+        "steamIDs": [
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "400",
+        "gameName": "Portal",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 60751,
+        "steamIDs": [
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "1020340",
+        "gameName": "AUDICA: Rhythm Shooter",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 381,
+        "steamIDs": [
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "774171",
+        "gameName": "Muse Dash",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 830,
+        "steamIDs": [
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "927270",
+        "gameName": "Accounting+",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 490,
+        "steamIDs": [
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "253230",
+        "gameName": "A Hat in Time",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 644,
+        "steamIDs": [
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "442070",
+        "gameName": "Drawful 2",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 488,
+        "steamIDs": [
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "322170",
+        "gameName": "Geometry Dash",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 86041,
+        "steamIDs": [
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "348250",
+        "gameName": "Google Earth VR",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 35,
+        "steamIDs": [
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "444640",
+        "gameName": "Bloons TD Battles",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 456,
+        "steamIDs": [
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "552440",
+        "gameName": "The Talos Principle VR",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 551,
+        "steamIDs": [
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "691160",
+        "gameName": "Electronauts",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 269,
+        "steamIDs": [
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "978270",
+        "gameName": "Sam & Dan: Floaty Flatmates",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 335,
+        "steamIDs": [
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "522040",
+        "gameName": "Princess Remedy In A Heap of Trouble",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 285,
+        "steamIDs": [
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "559460",
+        "gameName": "Cloud Pirates",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 0,
+        "steamIDs": [
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "489520",
+        "gameName": "Minion Masters",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 50228,
+        "steamIDs": [
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "287390",
+        "gameName": "Metro: Last Light Redux",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 451,
+        "steamIDs": [
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "609490",
+        "gameName": "Minit",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 863,
+        "steamIDs": [
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "1152920",
+        "gameName": "N.a.N Industry VR",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 9,
+        "steamIDs": [
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "787790",
+        "gameName": "Epic Roller Coasters",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 332,
+        "steamIDs": [
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "1190530",
+        "gameName": "Glyph",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 43,
+        "steamIDs": [
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "446750",
+        "gameName": "Portal Stories: VR",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 1114,
+        "steamIDs": [
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "435790",
+        "gameName": "10 Second Ninja X",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 89,
+        "steamIDs": [
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "457550",
+        "gameName": "Bigscreen Beta",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 41,
+        "steamIDs": [
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "760620",
+        "gameName": "Deiland",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 615,
+        "steamIDs": [
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "337000",
+        "gameName": "Deus Ex: Mankind Divided\u2122",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 377,
+        "steamIDs": [
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "418270",
+        "gameName": "Draw Slasher",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 91,
+        "steamIDs": [
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "883680",
+        "gameName": "Four Kings One War",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 115,
+        "steamIDs": [
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "308600",
+        "gameName": "Geneshift",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 106,
+        "steamIDs": [
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "555000",
+        "gameName": "GOAT OF DUTY",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 464,
+        "steamIDs": [
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "797410",
+        "gameName": "Headsnatchers",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 72,
+        "steamIDs": [
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "283740",
+        "gameName": "Kerbal Space Program: Making History Expansion",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 526,
+        "steamIDs": [
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "289690",
+        "gameName": "Lara Croft and the Temple of Osiris",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 854,
+        "steamIDs": [
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "32440",
+        "gameName": "LEGO\u00ae Star Wars\u2122: The Complete Saga",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 7773,
+        "steamIDs": [
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "567730",
+        "gameName": "Merry Snowballs",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 0,
+        "steamIDs": [
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "286690",
+        "gameName": "Metro 2033 Redux",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 626,
+        "steamIDs": [
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "1060320",
+        "gameName": "One Drop Bot",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 0,
+        "steamIDs": [
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "441380",
+        "gameName": "PAC-MAN\u2122 CHAMPIONSHIP EDITION 2",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 274,
+        "steamIDs": [
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "246620",
+        "gameName": "Plague Inc: Evolved",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 30927,
+        "steamIDs": [
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "939620",
+        "gameName": "Pleasure Puzzle:Portrait",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 125,
+        "steamIDs": [
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "471710",
+        "gameName": "Rec Room",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 8125,
+        "steamIDs": [
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "4760",
+        "gameName": "Rome: Total War",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 9070,
+        "steamIDs": [
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "4770",
+        "gameName": "Rome: Total War - Alexander",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 529,
+        "steamIDs": [
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "204880",
+        "gameName": "Sins of a Solar Empire: Rebellion",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 7518,
+        "steamIDs": [
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "414530",
+        "gameName": "Skyforge",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 61,
+        "steamIDs": [
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "212500",
+        "gameName": "The Lord of the Rings Online\u2122",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 186,
+        "steamIDs": [
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "378646",
+        "gameName": "The Witcher 3: Wild Hunt - New Finisher Animations",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 23,
+        "steamIDs": [
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "34330",
+        "gameName": "Total War: SHOGUN 2",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 285,
+        "steamIDs": [
+            "76561198115205016"
+        ]
+    },
+    {
+        "gameID": "220820",
+        "gameName": "Zombie Driver HD",
+        "py/object": "gamefinderbot_gameclass.Game",
+        "reviews": 2264,
+        "steamIDs": [
+            "76561198115205016"
+        ]
+    }
+]
